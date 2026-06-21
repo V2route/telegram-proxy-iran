@@ -19,18 +19,18 @@ Telegram is slow or blocked in Iran.
 Open this page **on the phone where Telegram is installed**, tap **Connect**,
 then **Enable** in Telegram. If a proxy is slow or down, try the next one.
 
-| # | Port | Connect (Telegram proxy) |
-|---|------|--------------------------|
-| 1 | 443  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=443&secret=23b962c6c46545a38261d61bc7347e6d) |
-| 2 | 8443 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=8443&secret=b4cb3771cb2cdc4a877ec81f80fee948) |
-| 3 | 2053 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2053&secret=092108811683093afa795f1e2c210c05) |
-| 4 | 2083 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2083&secret=bc17dea9eba1ac7dc47b17d44ad66ca0) |
-| 5 | 2087 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2087&secret=d2290b6b5841956fdd607c4655522c4c) |
-| 6 | 2096 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2096&secret=3432faf64a22319180bf771ac52cf185) |
-| 7 | 2052 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2052&secret=5039f499d94277cd55126195ce91ae09) |
-| 8 | 2082 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2082&secret=9b8873df6ea62093f19511f4f760256e) |
-| 9 | 2086 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2086&secret=f09d6c6123acc27a92a422f7cbd1bce4) |
-| 10| 2095 | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2095&secret=0204ecfda0da51a08d9760ea5a247f4e) |
+| Proxy | Connect (Telegram proxy) |
+|-------|--------------------------|
+| پروکسی ۱  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=443&secret=23b962c6c46545a38261d61bc7347e6d) |
+| پروکسی ۲  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=8443&secret=b4cb3771cb2cdc4a877ec81f80fee948) |
+| پروکسی ۳  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2053&secret=092108811683093afa795f1e2c210c05) |
+| پروکسی ۴  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2083&secret=bc17dea9eba1ac7dc47b17d44ad66ca0) |
+| پروکسی ۵  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2087&secret=d2290b6b5841956fdd607c4655522c4c) |
+| پروکسی ۶  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2096&secret=3432faf64a22319180bf771ac52cf185) |
+| پروکسی ۷  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2052&secret=5039f499d94277cd55126195ce91ae09) |
+| پروکسی ۸  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2082&secret=9b8873df6ea62093f19511f4f760256e) |
+| پروکسی ۹  | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2086&secret=f09d6c6123acc27a92a422f7cbd1bce4) |
+| پروکسی ۱۰ | [Connect →](https://t.me/proxy?server=dns.wikidev.shop&port=2095&secret=0204ecfda0da51a08d9760ea5a247f4e) |
 
 Raw MTProto proxy list: [`proxies.txt`](proxies.txt) — copy/paste friendly.
 
