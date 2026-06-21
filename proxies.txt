@@ -1,0 +1,10 @@
+https://t.me/proxy?server=dns.wikidev.shop&port=443&secret=23b962c6c46545a38261d61bc7347e6d
+https://t.me/proxy?server=dns.wikidev.shop&port=8443&secret=b4cb3771cb2cdc4a877ec81f80fee948
+https://t.me/proxy?server=dns.wikidev.shop&port=2053&secret=092108811683093afa795f1e2c210c05
+https://t.me/proxy?server=dns.wikidev.shop&port=2083&secret=bc17dea9eba1ac7dc47b17d44ad66ca0
+https://t.me/proxy?server=dns.wikidev.shop&port=2087&secret=d2290b6b5841956fdd607c4655522c4c
+https://t.me/proxy?server=dns.wikidev.shop&port=2096&secret=3432faf64a22319180bf771ac52cf185
+https://t.me/proxy?server=dns.wikidev.shop&port=2052&secret=5039f499d94277cd55126195ce91ae09
+https://t.me/proxy?server=dns.wikidev.shop&port=2082&secret=9b8873df6ea62093f19511f4f760256e
+https://t.me/proxy?server=dns.wikidev.shop&port=2086&secret=f09d6c6123acc27a92a422f7cbd1bce4
+https://t.me/proxy?server=dns.wikidev.shop&port=2095&secret=0204ecfda0da51a08d9760ea5a247f4e
