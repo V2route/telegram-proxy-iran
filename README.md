@@ -129,13 +129,13 @@ see [which VPNs work in Iran](https://v2route.com/blog/best-vpn-iran-2026).
 
 **Want a more stable connection?** VLESS + Reality survives filtering far better
 than a plain proxy — guides in
-[proxy-for-iran](https://github.com/V2route/proxy-for-iran).
+[v2ray-installation](https://github.com/V2route/v2ray-installation).
 
 ---
 
 ## Related
 
-- 🧰 [proxy-for-iran](https://github.com/V2route/proxy-for-iran) — V2Ray / Xray
+- 🧰 [v2ray-installation](https://github.com/V2route/v2ray-installation) — V2Ray / Xray
   (VLESS + Reality) setup & troubleshooting for Iran.
 - 🌐 [v2route.com](https://v2route.com) — managed VPN configs, free trial, blog.
 
